@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { MovieCard } from './MovieCard';
+import { Header } from './Header';
 
 import { api } from '../services/api';
 
@@ -33,9 +34,7 @@ export function Content(props: GenreResponseProps) {
 
   return (
     <div className="container">
-      <header>
-        <span className="category">Categoria:<span> {props.genreResponse.title}</span></span>
-      </header>
+      <Header title={props.genreResponse.title}/>
 
       <main>
         <div className="movies-list">
