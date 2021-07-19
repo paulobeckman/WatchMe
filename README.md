@@ -24,7 +24,7 @@
  
  ## 💻 Sobre o projeto
 
- Essa aplicação foi feita como desafio duarante o curso ignite da rocketseat. E teve como principal objetivo refatorar uma página para listagem de filmes de acordo com gênero. Com isso, na refatoração tive que criar dois novos componentes um chamado de Content responsável pelo header e conteúdo da aplicação e outro chamado de SideBar responsável pela seção que contém o título do site e a parte de navegação à esquerda da página.
+ Essa aplicação foi feita como desafio durante o curso ignite da rocketseat. E teve como principal objetivo refatorar uma página para listagem de filmes de acordo com gênero. Com isso, na refatoração tive que criar dois novos componentes um chamado de Content responsável pelo header e conteúdo da aplicação e outro chamado de SideBar responsável pela seção que contém o título do site e a parte de navegação à esquerda da página.
 
  ### Web
 
